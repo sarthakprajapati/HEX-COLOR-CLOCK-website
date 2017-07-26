@@ -1,0 +1,17 @@
+body{
+font-family:Candara;
+text-align:center;
+margin-top:200px;
+color:white;
+}
+
+#clock
+{
+	font-size:130px;
+	font-weight:300;
+}
+#hex-color
+{
+	font-size:25px;
+	
+}
